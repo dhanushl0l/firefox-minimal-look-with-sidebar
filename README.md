@@ -36,7 +36,7 @@ Achieve a minimalistic Firefox appearance with a sidebar using userChrome.css an
   </div>
 
   <div style="flex: 0 0 48%; margin-bottom: 1em;">
-    <img src="screenshots/screenshot2.png" alt="Screenshot 2" style="max-width: 100%; box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="https://addons.mozilla.org/user-media/previews/full/293/293183.png?modified=1702819064" alt="Screenshot 2" style="max-width: 100%; box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
     <p>Description of the second screenshot.</p>
   </div>
 
